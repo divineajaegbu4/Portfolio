@@ -27,7 +27,7 @@ This repository is a collaborative effort by Eight contributors to showcase our 
 | 🟣 divine | [@username3](https://github.com/username3) | [View Portfolio](team/person3.md) |
 | 🟠 emelie| [@username4](https://github.com/username4) | [View Portfolio](team/person4.md) |
 | 🟡 solomon| [@username5](https://github.com/username5) | [View Portfolio](team/person5.md) |
-| 🔴 Gideon Arinze | [@ArinzeGideon](https://github.com/@ArinzeGideon) | [View Portfolio](team/Gideon-Arinze.md) |
+| 🔴 Gideon Arinze | [@ArinzeGideon](https://github.com/ArinzeGideon) | [View Portfolio](team/Gideon-Arinze.md) |
 | ⚫ solomon akpan | [@username7](https://github.com/username7) | [View Portfolio](team/person7.md) |
 | ⚫ Ikechukwu Agu | [@IkechukwuAgu](https://github.com/ikechukwuAgu) | [View Portfolio](team/Ikechukwu-Agu.md) |
 
