@@ -11,7 +11,6 @@
 
 </div>
 
-
 ## 📖 Overview
 
 Welcome to our **Team Portfolio Project**!  
@@ -23,7 +22,11 @@ This repository is a collaborative effort by Eight contributors to showcase our 
 
 | Member | GitHub | Portfolio |
 |--------|--------|-----------|
+<<<<<<< HEAD
 | 🟢 Goodluck Onyenso | [@Goody24](https://github.com/Goody24) | [View Portfolio](team/Onyenso-Goodluck.md) |
+=======
+| 🟢 goodluck | [@Goody24](https://github.com/Goody24) | [View Portfolio](team/Goodluck-Onyenso.md) |
+>>>>>>> e0216d51c1bf627668cc267a74e7d216a5328c55
 | 🔵 onyinye | [@username2](https://github.com/username2) | [View Portfolio](team/person2.md) |
 | 🟣 divine | [@username3](https://github.com/username3) | [View Portfolio](team/person3.md) |
 | 🟠 emelie| [@username4](https://github.com/username4) | [View Portfolio](team/person4.md) |
@@ -48,4 +51,3 @@ Please check our [CONTRIBUTING.md](CONTRIBUTING.md) for details on:
 ## 📜 License  
 
 This project is licensed under the [MIT License](LICENSE).  
-
