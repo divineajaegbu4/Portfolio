@@ -17,7 +17,7 @@ Hi, I’m **Divine Ajaegbu**, a software developer passionate about building use
 A full-stack e-commerce website designed for food delivery services utilizing React.js and Firebase for the whole app. See the
 [Website](https://food-order-divineajaegbu4.vercel.app/)
 
-## **Todo App**
+### **Todo App**
 
 A Todo App was built using HTML, CSS, JavaScript, See
 [website](https://scarce-rings.surge.sh/index.html)
