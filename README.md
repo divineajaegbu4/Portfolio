@@ -23,7 +23,7 @@ This repository is a collaborative effort by Eight contributors to showcase our 
 
 | Member | GitHub | Portfolio |
 |--------|--------|-----------|
-| 🟢 Goodluck Onyenso | [@Goody24](https://github.com/Goody24) | [View Portfolio](team/Goodluck-Onyenso.md) |
+| 🟢 Goodluck Onyenso | [@Goody24](https://github.com/Goody24) | [View Portfolio](team/Onyenso-Goodluck.md) |
 | 🔵 onyinye | [@username2](https://github.com/username2) | [View Portfolio](team/person2.md) |
 | 🟣 divine | [@username3](https://github.com/username3) | [View Portfolio](team/person3.md) |
 | 🟠 emelie| [@username4](https://github.com/username4) | [View Portfolio](team/person4.md) |
