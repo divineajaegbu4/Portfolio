@@ -13,9 +13,14 @@ Hi, I’m **Divine Ajaegbu**, a software developer passionate about building use
 ## 📂 Projects
 
 ### **Food App**
+
 A full-stack e-commerce website designed for food delivery services utilizing React.js and Firebase for the whole app. See the
 [Website](https://food-order-divineajaegbu4.vercel.app/)
 
+## **Todo App**
+
+A Todo App was built using HTML, CSS, JavaScript, See
+[website](https://scarce-rings.surge.sh/index.html)
 
 ### **Note App**
 
@@ -38,4 +43,3 @@ This simple calculator utilizes HTML, CSS, and JavaScript(OOP). See
 This project is licensed under the MIT License — you are free to use, modify, and distribute it with proper attribution.
 
 See the [LICENSE](./LICENSE) file for full details.
-
