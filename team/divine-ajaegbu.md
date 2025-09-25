@@ -4,11 +4,11 @@
 
 Hi, I’m **Divine Ajaegbu**, a software developer passionate about building user-friendly web applications. I started with Frontend (HTML, CSS, JavaScript, React) and I’m currently learning Backend development to become a full-stack engineer.
 
-## 🛠️  Skills
+## 🛠️ Skills
 
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend (learning):** Node.js, Express, Databases (SQL/PostgreSQL), TypeScript, NestJS
-- **Other Tools:** Git, GitHub, Linux/Command Line, VS Code, Markdown
+- **Other Tools:** Git, GitHub, Linux/Command Line, VS Code, and Markdown
 
 ## 📂 Projects
 
@@ -24,7 +24,7 @@ A full-stack e-commerce website designed for food delivery services utilizing Re
 
 ### **Note App**
 
-This Note App utilizes HTML, CSS, and JavaScript. It will allow you to create notes and save. See
+This Note App utilizes HTML, CSS, and JavaScript. It will allow you to create notes and save. See:
 [website](https://yummy-pig.surge.sh/index.html)
 
 ### **Calculator**
