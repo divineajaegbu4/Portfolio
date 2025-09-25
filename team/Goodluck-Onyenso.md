@@ -96,7 +96,7 @@ Here are some of my recent projects:
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 - **Email:** [onyensogoodluck289@gmail.com](mailto:onyensogoodluck289@gmail.com)  
 - **GitHub:** [github.com/Goody24](https://github.com/Goody24)  
